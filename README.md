@@ -39,4 +39,17 @@ To run the application locally, follow these steps:
 
      ```bash
      pip install -r requirements.txt**
+
+
+4. Set up your OpenAI API key:
+   Create a .env file in the project root.
+   Add your OpenAI API key:
+   
+      ```bash
+      OPENAI_API_KEY=your_api_key
+      
+5. Run the Streamlit app:
+
+      ```bash
+      streamlit run app.py
   
