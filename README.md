@@ -34,6 +34,7 @@ To run the application locally, follow these steps:
    
   ```bash
   cd GenerativeAI_Projects/Chat_with_CSV_file
+
 3. install dependencies
 
   ```bash
