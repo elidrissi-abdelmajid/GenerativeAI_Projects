@@ -29,9 +29,11 @@ To run the application locally, follow these steps:
 
    ```bash
    git clone https://github.com/elidrissi-abdelmajid/GenerativeAI_Projects.git
-   Navigate to the project folder:
 
+2. Navigate to the project folder:
   ```bash
-  **cd GenerativeAI_Projects/Chat_with_CSV_file**
-  **pip install -r requirements.txt**
-  **
+  cd GenerativeAI_Projects/Chat_with_CSV_file
+3. install dependencies
+  ```bash
+  pip install -r requirements.txt**
+  
